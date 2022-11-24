@@ -1,4 +1,4 @@
-<img width="600" height="320"  alt="NML Cygni" src="https://steamuserimages-a.akamaihd.net/ugc/780730940915773136/375AF42EA97F9AAD16503299ED096812B30878C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img width="1000" height="550"  alt="NML Cygni" src="https://steamuserimages-a.akamaihd.net/ugc/780730940915773136/375AF42EA97F9AAD16503299ED096812B30878C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <h1 align="center">Hi, 👋 I'm Furkan </h1>
 
