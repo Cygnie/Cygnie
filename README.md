@@ -18,11 +18,12 @@
 ## 🔨 Stack 
 
 🐍 Python Stack
-- Machine Learning: TensorFlow, Scikit-learn, OpenCV, NLTK
+- Machine Learning: TensorFlow, Scikit-learn, OpenCV, NLTK, SpaCy
 - Pre-trained (state-of-the-art) Model Libraries: Tensorflow Hub, HuggingFace
 - Data Science: Pandas, Numpy, SciPy
 - Demo: Matplotlib, Seaborn, Plotly
-- Misc Tools: TensorBoard, Comet, Gradio, Streamlit
+- Misc Tools: TensorBoard, Comet, MLflow, Gradio, Streamlit
+- AutoML Libraries: EvalML, Flaml AutoML, Sagemaker Autopilot
 
 Development
 - Flask, AWS, Docker, FastApi
