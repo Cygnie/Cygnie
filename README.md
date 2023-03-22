@@ -25,5 +25,5 @@
 - Misc Tools: TensorBoard, Comet, MLflow, Gradio, Streamlit
 - AutoML Libraries: EvalML, Flaml AutoML, Sagemaker Autopilot
 
-Development
+Deployment
 - Flask, AWS, Docker, FastApi
